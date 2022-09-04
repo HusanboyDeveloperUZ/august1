@@ -1,0 +1,84 @@
+.part4container{
+    width: 100%;
+    height: 550px;
+    background-color: #AA9E54;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;    
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: 800px;
+
+  
+}
+.text12{ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.text21{ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+
+
+.text31{ 
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 250px;
+    margin: auto;
+}
+
+.text41{
+    
+
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 400;
+     line-height: 36px;
+     text-align: center;
+     color: #FFFFFF;
+     margin-top: 100px;
+     width: 250px;
+     margin: auto;
+    
+}
+
+.text51{ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 800;
+    width: 250px;
+    margin: auto;
+}
+
+.text61{ 
+    width: 200px;
+    height: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 300px;
+    margin: auto;
+}
